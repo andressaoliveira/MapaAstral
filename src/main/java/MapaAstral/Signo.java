@@ -16,8 +16,6 @@ public class Signo {
     private LocalTime horaInicio;
     private LocalTime horaFim;
     private List<Ascendente> ascendentes;
-    //private List<Signo> todosSignos;
-
 
     public static List<Signo> getTodosSignos(){
         var signos = new ArrayList();

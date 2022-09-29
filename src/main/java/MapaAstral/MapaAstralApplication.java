@@ -2,7 +2,6 @@ package MapaAstral;
 
 import java.time.*;
 import java.time.format.DateTimeFormatter;
-import java.util.ArrayList;
 import java.util.List;
 
 public class MapaAstralApplication {
